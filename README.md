@@ -78,7 +78,9 @@ Certifique-se de ter o Python 3.8+ instalado. É recomendado usar um ambiente vi
 
 ## 📈 Resultados
 
-Os modelos foram avaliados em dois cenários (Normal e PCA) utilizando validação cruzada. Abaixo um resumo comparativo das métricas médias obtidas no **cenário normal**:
+Os modelos foram avaliados em dois cenários (Normal e PCA) utilizando validação cruzada. Abaixo um resumo comparativo das métricas médias obtidas em cada cenário:
+
+### Cenário Normal
 
 | Modelo | Accuracy | F1-Score | AUC | Kappa |
 | :--- | :---: | :---: | :---: | :---: |
